@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="demo-with-httpd" type="CompoundRunConfigurationType">
+    <toRun name="httpd" type="docker-deploy" />
+    <toRun name="demo" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
